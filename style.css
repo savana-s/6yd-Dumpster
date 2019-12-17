@@ -1,0 +1,118 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
+.main-banner {
+  margin: 0 auto; 
+  width: 1200px;
+  height: 400px;
+  background-color: #fff;
+  overflow: hidden;
+  position: relative;
+}
+
+.main-banner .imgban {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  transition: all ease-in-out 500ms;
+  -webkit-transition:all ease-in-out 500ms ;
+  -moz-transition: all ease-in-out 500ms;
+  -o-transition: all ease-in-out 500ms;
+
+.main-banner #imgban3 {
+  background-image: url(https://cdn.pixabay.com/photo/2016/09/22/10/44/banner-1686943__340.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.main-banner #imgban2 {
+  background-image: url(https://www.mynewcaledonia.com.au/wp-content/uploads/sites/12/2016/12/Beach-Banner.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.main-banner #imgban1 {
+  background-image: url(hhttps://www.bannerbatterien.com/upload/filecache/Banner-Batterien-Solar-web_17f1199fab90a9f453b9ba4167c28e87.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+/*
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
