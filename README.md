@@ -1,2 +1,3 @@
 # 6yd-Dumpster
-Website for a local dumpster business
+
+Website for a small waste management company.
